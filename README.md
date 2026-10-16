@@ -4,6 +4,8 @@
 
 AnyProx deploys, orchestrates, and routes outbound HTTP/S traffic through ephemeral cloud infrastructure (Cloudflare Workers, AWS API Gateway + Lambda across multiple regions, or generic/SOCKS5 proxies) to provide high-diversity IP rotation for security scanning, reconnaissance, web scraping, and resilience testing.
 
+![AnyProx Illustration](assets/illustration.png)
+
 ---
 
 ## Features
